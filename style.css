@@ -1,0 +1,52 @@
+  *{
+    margin: 0;
+    padding: 0%;
+
+  }
+  body{
+    font-family: 'Poppins', sans-serif;
+  }
+  .cabecalho{
+    background-color: #FF3D00;
+    color:#000;
+    display: flex;
+    justify-content: space-around;}
+    
+.cabecalho-imagem{
+    width: 17%;
+}
+.cabecalho-lista-item {
+    display: inline-block;
+    margin: 80px 16px;
+    font-size: larger;
+
+}
+.imagem-logo {
+    width: 25%;
+}
+.info{
+    background-image: linear-gradient(#FF3D00,#6F3827);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}.div-de-itens{
+    width: 25%;
+}.titulo{
+    padding: 25px 0;
+}.icone-compras{
+    margin: 0 10% ;
+    width: 38px;
+    
+}.icone-carrinho{
+    width: 30px;
+}.div-itens{
+    text-align: center;
+}
+
+
+ 
+
+
+
